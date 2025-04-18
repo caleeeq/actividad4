@@ -1,6 +1,7 @@
 # 🍎🥬 Proyecto-Final-ED1: Sistema de Gestión de Inventario para Tienda de Frutas y Verduras
 
-Este es un proyecto final desarrollado en Python que implementa un **Sistema de Gestión de Inventario** para una tienda de frutas y verduras. Permite controlar productos, stock, proveedores, clientes y ventas, incluyendo lógica de rotación de inventario por temporada y rebajas por fecha de expiración.
+Este es un proyecto final desarrollado en Python que implementa un **Sistema de Gestión de Inventario** para una tienda de frutas y verduras.
+Permite controlar productos, stock, proveedores, clientes y ventas, incluyendo lógica de rotación de inventario por temporada y rebajas por fecha de expiración.
 
 ## 📦 Funcionalidades principales
 
